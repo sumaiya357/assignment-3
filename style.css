@@ -1,0 +1,14 @@
+/* .carousel-item {
+
+    
+    background-size: cover;
+    background-position: center;
+   background-image: url('images/cover/cover-1.png');
+}
+.carousel-item h1{
+height: 200px;
+} */
+.drk::after{
+    background: #000;
+    opacity: 0.6;
+}
